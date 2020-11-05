@@ -2,6 +2,8 @@
 
 > Sample application vue app secured with keycloak
 
+![main page screen](src/assets/main-page.png)
+
 ## Build Setup
 
 ``` bash
@@ -14,7 +16,5 @@ npm run dev
 # build for production with minification
 npm run build
 ```
-
-![main page screen](src/assets/main-page.png)
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
